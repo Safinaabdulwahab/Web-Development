@@ -1,2 +1,3 @@
 # Web-Development
-just another respository
+web development Assigement
+create a ecommerce website using HTMLand CSS
